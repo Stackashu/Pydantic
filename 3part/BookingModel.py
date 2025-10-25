@@ -1,4 +1,3 @@
-# from turtle import mode
 from pydantic import BaseModel , field_validator , model_validator , computed_field
 
 
